@@ -1,16 +1,16 @@
-## Hi there 👋
+# Felipe Rocha
+### JR Front-end Developer 
 
-<!--
-**felipegcrocha/felipegcrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ➥ Tecnologias 
+[![Habilidades:](https://skillicons.dev/icons?i=html,css,js,java,git,github)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ➥ Contato
+
+📧 E-mail: felipegcrocha.dev@gmail.com  
+🔗 LinkedIn: [in/felipeerochaa](https://www.linkedin.com/in/felipeerochaa/)
+
+---
+
+**Obrigado pela visita!**
